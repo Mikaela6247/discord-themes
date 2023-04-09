@@ -22,16 +22,16 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#EFDFD7"
+            "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#110D0A"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "#808080"
         ],
         "BACKGROUND_PRIMARY": [
             "#110D0A"
