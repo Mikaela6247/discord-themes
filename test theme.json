@@ -49,16 +49,16 @@
             "#503E38"
         ],
         "BACKGROUND_FLOATING": [
-            "#5B61A1"
+            "#BBD2EC"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#5B61A1"
+            "#BBD2EC"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#5B61A1"
+            "#BBD2EC"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#5B61A1"
+            "#BBD2EC"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
@@ -107,7 +107,7 @@
             "#004F92"
         ],
         "CHAT_BACKGROUND": [
-            "#5B61A1"
+            "#BBD2EC"
         ]
     },
     "rawColors": {
