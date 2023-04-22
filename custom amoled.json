@@ -1,0 +1,54 @@
+{
+    "name": "Custom Amoled w/ bg",
+    "description": "A theme made by Mikaela",
+    "authors": [
+        {
+            "name": "Mikaela",
+            "id": "607083298996486183"
+        }
+    ],
+  "spec": 2,
+    "semanticColors": {
+        "HEADER_PRIMARY": [    
+            "#A4ABB3"
+        ],
+        "HEADER_SECONDARY": [
+            "#A4ABB3"
+        ],
+        "TEXT_NORMAL": [
+            "#E9E9E9"
+        ],
+        "TEXT_MUTED": [
+            "#A4ABB3"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#565A5D"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#5B5E63"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#A8A8A8",
+            "#c9bbc8"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#020202"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#121114"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0E0D10"
+        ]
+    },
+
+      "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1028270366927360041/1099303782166298735/3363494.png",
+    "alpha": 0.4
+    },
+    "color": "#020202"
+}
