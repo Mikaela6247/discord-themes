@@ -10,19 +10,22 @@
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [    
-            "#A4ABB3"
+            "#F2F3F5"
         ],
         "HEADER_SECONDARY": [
-            "#A4ABB3"
+            "#A6ABB1"
         ],
         "TEXT_NORMAL": [
-            "#E9E9E9"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#A4ABB3"
+            "#4D5057"
+        ],
+        "TEXT_LINK": [
+            "#5B5E63"
         ],
         "INTERACTIVE_NORMAL": [
-            "#565A5D"
+            "#63666B"
         ],
         "INTERACTIVE_HOVER": [
             "#5B5E63"
@@ -31,24 +34,53 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#A8A8A8",
-            "#c9bbc8"
+            "#4D5057"
         ],
         "BACKGROUND_PRIMARY": [
-            "#020202"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#121114"
+            "#0C0C0C"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0E0D10"
+            "#111214"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#060606"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#161719"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#0C0C0C"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#060606"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#242529"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#000000"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#81838F"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#73767B"
         ]
     },
 
       "background": {
     "blur": 0,
-    "url": "https://media.discordapp.net/attachments/1028270366927360041/1099303792438161428/3363326.jpg",
-    "alpha": 0.4
+    "url": "https://cdn.discordapp.com/attachments/1102208493555040267/1103666160173596702/Sunsets_are_coooool_in_2020_Black_aesthetic_wallpaper_Aesthetic.jpg",
+    "alpha": 0
     },
-    "color": "#020202"
+    "color": "transparent"
 }
