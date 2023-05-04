@@ -72,6 +72,9 @@
         "CHANNEL_ICON": [
             "#81838F"
         ],
+        "CHAT_BACKGROUND": [
+            "transparent"
+        ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#73767B"
         ]
