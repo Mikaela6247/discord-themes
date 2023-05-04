@@ -78,9 +78,9 @@
     },
 
       "background": {
-    "blur": 0,
+    "blur": 0.0,
     "url": "https://cdn.discordapp.com/attachments/1102208493555040267/1103666160173596702/Sunsets_are_coooool_in_2020_Black_aesthetic_wallpaper_Aesthetic.jpg",
-    "alpha": 0
+    "alpha": 0.0
     },
-    "color": "#000000"
+    "color": "transparent"
 }
