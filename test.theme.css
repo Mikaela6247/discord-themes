@@ -19,7 +19,7 @@
 
 	--accent: 0, 231, 169; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
 
-	--channels-width: 300px; /* Width of the channels list. | Default: 300px */
+	--channels-width: 250px; /* Width of the channels list. | Default: 300px */
 	--guilds-width: 105px; /* Width of the server list. | Default: 105px */
 	--members-width: 280px; /* Width of the members list. | Default: 280px */
 
